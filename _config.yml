@@ -1,0 +1,14 @@
+layout_spectrum: 0.295526
+typography_spectrum: 1
+color:
+  saturation: 0.3116686
+  lightness: 0.2537992
+  brandStrength: 1
+  brandColors:
+    - '#E43146'
+    - '#FFFFFF'
+    - '#1E1C27'
+    - '#736D61'
+    - '#ADA28C'
+  rhythmicContrast: 0.9460312
+name: Inese

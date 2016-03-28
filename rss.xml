@@ -4,8 +4,15 @@
         <description><![CDATA[Inese]]></description>
         <link>https://thegrid.ai/inese/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 04:00:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2016 04:00:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/inese/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Auckland]]></title>
+            <description><![CDATA[<article><h1>Auckland</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1bdd3ef2137de4a612a50397513fdd561d0bab58.jpg"></article>]]></description>
+            <link>https://thegrid.ai/inese/auckland/index.html</link>
+            <guid isPermaLink="false">09276cf4-c502-409b-ac43-88bd0ed416dd</guid>
+            <pubDate>Mon, 28 Mar 2016 04:00:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Newport Coast]]></title>
             <description><![CDATA[<article><h1>Newport Coast</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c992170905201c104c82732a231c618c44ff0c5c.jpg"></article>]]></description>

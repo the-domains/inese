@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Inese]]></title>
         <description><![CDATA[Inese]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/inese/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 04:00:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 28 Mar 2016 04:00:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/inese/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Whistler]]></title>
+            <description><![CDATA[<article><h1>Whistler</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b57c4afddbef8f5e62c9aa27a606c17b2c168a3f.png"></article>]]></description>
+            <link>https://thegrid.ai/inese/whistler/index.html</link>
+            <guid isPermaLink="false">53c1b080-ee2b-46be-821a-407755619fbc</guid>
+            <pubDate>Mon, 28 Mar 2016 04:00:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Düsseldorf ]]></title>
             <description><![CDATA[<article><h1>Düsseldorf </h1><p>Düsseldorf</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a776f51-a002-45a8-8fe1-3ad1c10907c8.jpg"></article>]]></description>
-            <link>undefineddusseldorf/index.html</link>
+            <link>https://thegrid.ai/inese/dusseldorf/index.html</link>
             <guid isPermaLink="false">d59737f0-249e-49ae-bffe-df70745db91f</guid>
             <pubDate>Mon, 28 Mar 2016 04:00:29 GMT</pubDate>
         </item>

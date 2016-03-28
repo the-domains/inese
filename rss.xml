@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Inese]]></title>
+        <description><![CDATA[Inese]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 28 Mar 2016 04:00:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Düsseldorf ]]></title>
+            <description><![CDATA[<article><h1>Düsseldorf </h1><p>Düsseldorf</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a776f51-a002-45a8-8fe1-3ad1c10907c8.jpg"></article>]]></description>
+            <link>undefineddusseldorf/index.html</link>
+            <guid isPermaLink="false">d59737f0-249e-49ae-bffe-df70745db91f</guid>
+            <pubDate>Mon, 28 Mar 2016 04:00:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

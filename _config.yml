@@ -1,3 +1,7 @@
+name: Inese
+favicon: null
+layout_spectrum: 0.2207304
+typography_spectrum: 0.8157895
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.8157895
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.9908701
-  brandStrength: 1
-  lightness: 0.9371642
   brandColors:
     - '#E43146'
     - '#FFFFFF'
     - '#1E1C27'
     - '#736D61'
     - '#ADA28C'
+  brandStrength: 0
+  lightness: 0.9371642
+  saturation: 0.5
   rhythmicContrast: 0.4559613
-layout_spectrum: 0.2207304
-name: Inese
+purpose: []

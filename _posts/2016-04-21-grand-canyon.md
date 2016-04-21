@@ -1,7 +1,7 @@
 ---
 title: Grand Canyon
-datePublished: '2016-04-21T23:26:42.966Z'
-dateModified: '2016-04-21T23:23:30.816Z'
+datePublished: '2016-04-21T23:26:42.945Z'
+dateModified: '2016-04-21T23:25:22.128Z'
 author: []
 description: ''
 sourcePath: _posts/2016-04-21-grand-canyon.md
@@ -13,4 +13,6 @@ _type: MediaObject
 
 ---
 # Grand Canyon
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/161cd879-2f2c-4cde-be5f-69f8c34c91bb.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd2226d8-36c0-488e-90d2-edd2194a6dd2.jpg)
+
+Such beautiful weather, we are on the way back up - day one coming to an end.

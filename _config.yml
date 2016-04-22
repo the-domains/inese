@@ -1,40 +1,40 @@
-name: Inese
 favicon: null
-layout_spectrum: 0.2207304
-typography_spectrum: 0.8157895
+name: Inese
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
+    permalink:
+      path: '/:title/'
+purpose: []
+color:
+  saturation: 0.4785177
+  brandStrength: 1
+  lightness: 0.9350161
+  brandColors:
+    - '#2D549F'
+    - '#518ED1'
+    - '#0B0B0D'
+    - '#FFFFFF'
+    - '#D7986D'
+  rhythmicContrast: 0.4559613
+typography_spectrum: 0.8157895
+layout_spectrum: 0.2207304
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#E43146'
-    - '#FFFFFF'
-    - '#1E1C27'
-    - '#736D61'
-    - '#ADA28C'
-  brandStrength: 0
-  lightness: 0.9371642
-  saturation: 0.5
-  rhythmicContrast: 0.4559613
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null

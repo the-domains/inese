@@ -1,7 +1,5 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+name: Inese
 opengraph:
   image: null
   type: null
@@ -30,11 +28,13 @@ color:
     - '#FFFFFF'
     - '#D7986D'
   rhythmicContrast: 0.4559613
-typography_spectrum: 0.8157895
+typography_spectrum: 0.5762621
+layout_spectrum: 0.2207304
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.2207304
-favicon: null
-name: Inese
+analytics:
+  twitter: null
+  google: null
+  facebook: null

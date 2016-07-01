@@ -29,6 +29,7 @@ color:
     - '#D7986D'
   rhythmicContrast: 0.4559613
 typography_spectrum: 0.5762621
+style: the-composer
 layout_spectrum: 0.2207304
 cta:
   bucket: null
